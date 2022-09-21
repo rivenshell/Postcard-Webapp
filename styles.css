@@ -2,15 +2,10 @@ body {
 	background: black;
 }
 
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
-
 .postcard {
 	background: white;
 	width: 400px;
-	height: 300px;
+	height: 350px;
 	margin: auto;
 }
 
@@ -42,8 +37,8 @@ body {
 }
 
 input {
-	border: none;
-	border-bottom: 20px;
+	border: solid gray;
+	border-bottom: 1px;
 }
 
 .postcard-footer {
